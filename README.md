@@ -27,10 +27,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="assets/profile-logo.png" alt="PN - Pasunooti Nikhil personal brand logo" width="260" />
-</div>
-
 ## Digital Identity
 
 ```yaml
