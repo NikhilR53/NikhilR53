@@ -103,28 +103,7 @@ A cinematic portfolio experience for showcasing projects, skills, certifications
   <img src="assets/tech-universe.png" alt="Tech Universe skills dashboard" width="100%" />
 </div>
 
-<br/>
 
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" alt="Python, Java, JavaScript, TypeScript, C, C++" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase&theme=dark" alt="MongoDB, PostgreSQL, MySQL, Firebase, Supabase" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux&theme=dark" alt="Git, GitHub, Docker, VS Code, Figma, Linux" />
-
-</div>
-
-<br/>
 
 ## GitHub Dashboard
 
