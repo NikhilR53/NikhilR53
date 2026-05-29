@@ -1,208 +1,227 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=200&section=header&text=Pasunooti%20Nikhil&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<img src="assets/banner.png" alt="Pasunooti Nikhil - Software Engineer, Full Stack Developer, AI Systems Builder" width="100%" />
 
-<!-- Typing Animation -->
+<br/><br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+things+that+matter+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js+%7C+Tailwind;CodeQuest+%F0%9F%8E%AE+%7C+Colobus+Curio+Cabinet+%F0%9F%8F%9B%EF%B8%8F+%7C+Portfolio;SDE+%7C+Open+Source+%7C+Anurag+University+CSE+%2726" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full+Stack+Developer;AI+Systems+Builder+%7C+Creator+of+DEVA;Building+intelligent+products+that+solve+real-world+problems;Code+%E2%80%A2+Create+%E2%80%A2+Impact" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nikhilpasunooti.onrender.com-38BDF8?style=for-the-badge)](https://nikhilpasunooti.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-NikhilR53-181717?style=for-the-badge&logo=github)](https://github.com/NikhilR53)
+<a href="https://nikhilpasunooti.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=050014&labelColor=0B0F19" alt="Portfolio" />
+</a>
+<a href="https://in.linkedin.com/in/nikhil-pasunooti-231360305">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19" alt="LinkedIn" />
+</a>
+<a href="mailto:nikhilpasunooti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF00D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19" alt="Email" />
+</a>
+<a href="https://nikhilpasunooti.onrender.com">
+  <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=00F5FF&labelColor=0B0F19" alt="Resume" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<div align="center">
+  <img src="assets/profile-logo.png" alt="PN - Pasunooti Nikhil personal brand logo" width="220" />
+</div>
 
-```typescript
-const Nikhil = {
-  name        : "Pasunooti Nikhil",
-  college     : "Anurag University, Hyderabad — BTech CSE (2026)",
-  pronouns    : "he/him",
-  role        : "Full-Stack Developer | SDE | Open Source Contributor",
-  building    : [
-                  "CodeQuest 🎮 — Gamified Python learning with RPG mechanics",
-                  "Colobus Curio Cabinet 🏛️ — Museum-style multi-page website",
-                  "Portfolio 🌐 — Scroll-driven React + Framer Motion showcase"
-                ],
-  techStack   : ["React", "TypeScript", "Node.js", "Tailwind CSS", "Supabase"],
-  available   : "Full-Time SDE Roles | Open Source Contributions",
-  learning    : ["System Design 🏗️", "Advanced DSA ⚡", "Web3 & Solidity ⛓️"],
-  superpower  : "Turns ideas into deployed products — fast 💡",
-  contact     : "📍 Hyderabad, Telangana"
-};
+<br/>
+
+## Digital Identity
+
+```yaml
+Name: Pasunooti Nikhil
+Role: Software Engineer
+Education: Anurag University
+Graduation: 2026
+Current Focus:
+  - AI Agents
+  - Full Stack Development
+  - System Design
+  - SaaS Products
+Mission: Build products that solve real-world problems.
 ```
 
----
+## About Me
 
-## 🚀 Featured Projects
+I am a software engineer and full stack developer building at the intersection of AI systems, product engineering, and polished user experience. My work focuses on turning ambitious ideas into real, usable products with strong architecture, clean interfaces, and practical impact.
+
+I like systems that feel intelligent, interfaces that feel premium, and engineering that stays simple enough to scale.
+
+<br/>
+
+## Flagship Project
+
+<div align="center">
+  <img src="assets/deva-card.png" alt="DEVA AI Assistant flagship project" width="100%" />
+</div>
+
+### DEVA AI Assistant
+
+A next-generation AI assistant combining voice, intelligence, memory, automation, and natural conversation into a personal AI experience.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 CodeQuest</h3>
-      <p><strong>Gamified Python Learning Platform</strong></p>
-      <p>RPG-style learning experience with XP systems, streak tracking, boss battles, and spaced repetition — built for Gen Z learners.</p>
-      <ul>
-        <li>🧠 Spaced repetition & boss battle challenge modes</li>
-        <li>🔥 XP, streaks, and level progression system</li>
-        <li>⚡ Code execution via <strong>Piston API</strong></li>
-        <li>☁️ Auth & data via <strong>Supabase</strong></li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ Colobus Curio Cabinet</h3>
-      <p><strong>Museum-Style Static Website</strong></p>
-      <p>7-page multi-section museum website — Index, Research, About, Contact, Cabinet, Collections & Exhibitions — with polished UI.</p>
-      <ul>
-        <li>🖼️ Artifact images hosted on <strong>Supabase CDN</strong></li>
-        <li>🎨 Built with <strong>Tailwind CSS</strong>, Iconify & Google Fonts</li>
-        <li>📱 Fully responsive across all screen sizes</li>
-        <li>✨ Rebuilt from superdesign.dev mockup</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-      </p>
-    </td>
+    <td width="50%"><strong>Voice Intelligence</strong><br/>Natural voice-first interaction for human-like control.</td>
+    <td width="50%"><strong>GPT Integration</strong><br/>Advanced reasoning and conversational intelligence.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website <code>🟢 Live</code></h3>
-      <p><strong>Scroll-Driven React Portfolio</strong></p>
-      <p>Personal portfolio with scroll-driven stacked card animations for the Certifications section, built with modern tooling.</p>
-      <ul>
-        <li>🎞️ Scroll-driven stacked card animations</li>
-        <li>🚀 Framer Motion powered transitions</li>
-        <li>🔗 <a href="https://nikhilpasunooti.onrender.com"><strong>Live →</strong></a></li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💸 Expense Tracker</h3>
-      <p><strong>Modern Finance Management App</strong></p>
-      <p>Track income & expenses, view spending analytics, dark/light mode — with Google Sign-In via Firebase.</p>
-      <ul>
-        <li>📊 Spending analytics dashboard</li>
-        <li>🔐 Firebase Auth with Google Sign-In</li>
-        <li>🌙 Dark / Light mode toggle</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-      </p>
-    </td>
+    <td width="50%"><strong>Local LLM Support</strong><br/>Flexible AI workflows with privacy-aware local models.</td>
+    <td width="50%"><strong>Persistent Memory</strong><br/>Context that carries across sessions and conversations.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Automation</strong><br/>Task execution designed around real user workflows.</td>
+    <td width="50%"><strong>Human-like Conversations</strong><br/>Designed to make AI feel personal, useful, and natural.</td>
   </tr>
 </table>
 
----
+<br/>
 
-## 💻 Tech Stack
-
-**🖥️ Frontend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**⚙️ Backend & Languages**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**🗄️ Databases & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**☁️ DevOps & Tools**
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-## 🏅 Certifications & Achievements
-
-| Badge | Achievement | Issuer |
-|:---:|---|---|
-| 🎤 | **Technical Seminar — "AI Impact on Gen Z"** | Anurag University |
-| ☁️ | **Azure AI Fundamentals (AI-900)** | Microsoft |
-| 🤖 | **Fundamentals of Generative AI** | Microsoft |
-| 💡 | **Design Thinking** | Infosys Springboard |
-| 🐍 | **Python Programming** | Infosys Springboard |
-| 🌐 | **HTML5 & Web Development** | Infosys Springboard |
-| 🧮 | **Competitive Programming — DSA Practice** | LeetCode / Self |
-
----
-
-## 📊 GitHub Stats
+## Featured Projects
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilR53&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilR53&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="175"/>
-
+  <img src="assets/codequest-card.png" alt="CodeQuest featured project" width="100%" />
 </div>
 
-<div align="center">
+### CodeQuest
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=NikhilR53&theme=tokyonight&hide_border=true" height="175"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikhilR53&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-*"Ship it. Learn from it. Build the next one better. 🚀"*
+A gamified Python learning platform designed to make coding practice feel like progression. CodeQuest blends RPG mechanics, spaced repetition, boss battles, XP rewards, streaks, and real-time code execution into a modern learning experience.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NikhilR53&color=38bdf8&style=flat-square&label=Profile+Views)
+<div align="center">
+  <img src="assets/portfolio-card.png" alt="Personal developer portfolio featured project" width="100%" />
+</div>
+
+### Personal Developer Portfolio
+
+A modern, interactive portfolio showcasing projects, skills, experience, and design taste through a futuristic visual system, smooth motion, and recruiter-friendly storytelling.
+
+<br/>
+
+## Tech Universe
+
+<div align="center">
+  <img src="assets/tech-universe.png" alt="Tech Universe skills dashboard" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" alt="Python, Java, JavaScript, TypeScript, C, C++" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase&theme=dark" alt="MongoDB, PostgreSQL, MySQL, Firebase, Supabase" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux&theme=dark" alt="Git, GitHub, Docker, VS Code, Figma, Linux" />
 
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d0d0d&height=120&section=footer" width="100%" />
+<br/>
+
+## GitHub Dashboard
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhilR53&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=E5E7EB&icon_color=FF00D4&ring_color=7C3AED" alt="Nikhil's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilR53&layout=compact&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=E5E7EB" alt="Top languages" />
+
+<br/><br/>
+
+<img width="88%" src="https://streak-stats.demolab.com?user=NikhilR53&hide_border=true&background=00000000&ring=00F5FF&fire=FF00D4&currStreakLabel=00F5FF&sideLabels=7C3AED&dates=E5E7EB&sideNums=E5E7EB&currStreakNum=FFFFFF" alt="GitHub streak stats" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilR53&bg_color=00000000&color=E5E7EB&line=00F5FF&point=FF00D4&area=true&area_color=7C3AED&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+<br/>
+
+## Certifications
+
+<table>
+  <tr>
+    <td width="50%"><strong>Azure AI Fundamentals</strong><br/>AI concepts, Azure AI services, and responsible AI foundations.</td>
+    <td width="50%"><strong>Generative AI</strong><br/>Modern AI workflows, prompting, and applied AI product thinking.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Python Programming</strong><br/>Core programming, problem solving, and backend automation.</td>
+    <td width="50%"><strong>Design Thinking</strong><br/>Human-centered product design and structured innovation.</td>
+  </tr>
+</table>
+
+## Current Goals
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Build AI Products</strong></td>
+    <td align="center" width="25%"><strong>Launch SaaS Products</strong></td>
+    <td align="center" width="25%"><strong>Master System Design</strong></td>
+    <td align="center" width="25%"><strong>Open Source Contributions</strong></td>
+  </tr>
+</table>
+
+## Engineering Philosophy
+
+```c
+while (alive) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+## Contact
+
+<div align="center">
+
+<a href="https://in.linkedin.com/in/nikhil-pasunooti-231360305">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19" alt="LinkedIn" />
+</a>
+<a href="https://nikhilpasunooti.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F19" alt="Portfolio" />
+</a>
+<a href="mailto:nikhilpasunooti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-FF00D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19" alt="Email" />
+</a>
+<a href="https://github.com/NikhilR53">
+  <img src="https://img.shields.io/badge/GitHub-NikhilR53-111827?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0B0F19" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NikhilR53&style=for-the-badge&label=Profile%20Views&color=00F5FF" alt="Profile views" />
+
+<br/><br/>
+
+<h3>CODE • CREATE • IMPACT</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:7C3AED,100:FF00D4" width="100%" alt="Footer wave" />
+
+</div>
